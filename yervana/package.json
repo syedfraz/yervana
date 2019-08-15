@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-react": "^6.24.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.9.5",
+    "react-webpack": "^0.4.1"
   },
   "devDependencies": {},
   "scripts": {
